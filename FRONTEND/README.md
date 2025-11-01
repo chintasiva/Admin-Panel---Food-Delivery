@@ -2,7 +2,7 @@
 
 ## Quick Start
 1. Install dependencies:
-   cd frontend_final
+   cd FRONTEND
    npm install
 
 2. Run:
