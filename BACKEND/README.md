@@ -9,7 +9,7 @@
 2. Start MongoDB (default URI used: mongodb://localhost:27017/food_admin_panel)
 3. Run server:
    ```bash
-   npm run dev
+   npm start
    ```
 
 ## Logging
